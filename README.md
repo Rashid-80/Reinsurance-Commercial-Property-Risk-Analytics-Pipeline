@@ -32,5 +32,9 @@ This end-to-end analytics project ingests **20,000+ real Florida policy and clai
 ---
 
 ## 4. Dashboard Preview
-* **Page 1 — Underwriting & Loss Ratio Overview:** Tracks portfolio KPIs, Elevation Certificate severity comparison, and ZIP-level Loss Ratio tables.
-* **Page 2 — XoL Reinsurance Treaty Simulator:** Visualizes primary insurer retention ($5M cap) vs. ceded reinsurer recovery ($25M limit) across named catastrophe events.
+
+### Page 1: Underwriting & Loss Ratio Overview
+![Underwriting and Loss Ratio Dashboard](page1_underwriting.png)
+
+### Page 2: Excess-of-Loss (XoL) Reinsurance Treaty Simulator
+![XoL Reinsurance Treaty Dashboard](page2_xol_treaty.png)
